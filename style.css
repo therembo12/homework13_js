@@ -1,0 +1,32 @@
+.person_info_style{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding: 1px;
+}
+.homeworld_info_style{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding: 1px;
+
+}
+.starships_info_style{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding: 1px;
+ 
+}
+.vehicles_info_style{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding: 1px;
+}
+.films_info_style{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    padding: 1px;
+}
