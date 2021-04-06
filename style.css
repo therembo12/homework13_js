@@ -30,3 +30,13 @@
     text-align: center;
     padding: 1px;
 }
+button{
+    text-align: center;
+    padding: 5px;
+    width: 250px;
+    height: 50px;
+    margin-bottom: 50px;
+}
+body{
+    text-align: center;
+}
